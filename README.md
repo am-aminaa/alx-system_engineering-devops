@@ -1,1 +1,1 @@
-shell basics readme
+Shell, init files, variables and expansions readme
